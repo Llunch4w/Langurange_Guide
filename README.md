@@ -30,7 +30,7 @@
 |多线程|线程不安全场景3--向集合中添加元素|[ListAddNoSafeTest.java](./myjava/juc/ListAddNoSafeTest.java)|
 |多线程|线程安全的集合元素添加---通过同步块实现|[ListAddSynchronizedTest.java](./myjava/juc/ListAddSynchronizedTest.java)|
 |多线程|线程安全的集合元素添加---通过同步锁实现|[ListAddLockTest.java](./myjava/juc/ListAddLockTest.java)|
-|多线程|模拟女孩化妆场景下的死锁||
-|多线程|模拟女孩化妆场景下的死锁解决||
-|多线程|基于管程的生产者消费者模拟||
-|多线程|基于信号量的生产者消费者模拟||
+|多线程|模拟女孩化妆场景下的死锁|[DeadLokTest.java](./myjava/juc/DeadLokTest.java)|
+|多线程|模拟女孩化妆场景下的死锁解决|[DeadNoLockTest.java](./myjava/juc/DeadNoLockTest.java)|
+|多线程|基于管程的生产者消费者模拟|[ProducerConsumerTest.java](./myjava/juc/ProducerConsumerTest.java)|
+|多线程|基于信号量的生产者消费者模拟|[PlayerWatcherTest.java](./myjava/juc/PlayerWatcherTest.java)|
