@@ -34,3 +34,15 @@
 |多线程|模拟女孩化妆场景下的死锁解决|[DeadNoLockTest.java](./myjava/juc/DeadNoLockTest.java)|
 |多线程|基于管程的生产者消费者模拟|[ProducerConsumerTest.java](./myjava/juc/ProducerConsumerTest.java)|
 |多线程|基于信号量的生产者消费者模拟|[PlayerWatcherTest.java](./myjava/juc/PlayerWatcherTest.java)|
+|多线程|基于Condition的生产者消费者模拟|[ConditionProducerConsumerTest.java](./myjava/juc/ConditionProducerConsumerTest.java)|
+|多线程|生产者消费者中的虚假唤醒问题|[FakeNotifyTest.java](./myjava/juc/FakeNotifyTest.java)|
+|多线程|生产者消费者中的虚假唤醒问题解决|[FakeNotifyResolveTest.java](./myjava/juc/FakeNotifyResolveTest.java)|
+|多线程|基于Condition的流水线模拟|[ConditionTest.java](./myjava/juc/ConditionTest.java)|
+|多线程|7锁现象-1|[SevenLock1Test.java](./myjava/juc/SevenLock1Test.java)|
+|多线程|7锁现象-2|[SevenLock2Test.java](./myjava/juc/SevenLock2Test.java)|
+|多线程|7锁现象-3|[SevenLock3Test.java](./myjava/juc/SevenLock3Test.java)|
+|多线程|7锁现象-4|[SevenLock4Test.java](./myjava/juc/SevenLock4Test.java)|
+|多线程|7锁现象-5|[SevenLock5Test.java](./myjava/juc/SevenLock5Test.java)|
+|多线程|7锁现象-6|[SevenLock6Test.java](./myjava/juc/SevenLock6Test.java)|
+|多线程|7锁现象-7|[SevenLock7Test.java](./myjava/juc/SevenLock7Test.java)|
+
